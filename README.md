@@ -8,17 +8,17 @@ This course is designed to get you more familiar with JSON, how you can get obje
 
 You'll learn how to:
 
-Structure information in the JSON format
-What JSON is and how to use it within JavaScript
-How to loop through data
-How to output the JSON data contents into your HTML
-Rethink your data structure to be more dynamic and versatile
-Build dynamic elements in JavaScript that have event listeners
-Update your HTML using JavaScript
-Save a JavaScript object as JSON 
-Convert a string to a JavaScript object and then back again
-Get data via a HTTP XML request object
-Practice JSON and enjoy building out this task list from scratch.
+<li>Structure information in the JSON format</li>
+<li>What JSON is and how to use it within JavaScript</li>
+<li>How to loop through data</li>
+<li>How to output the JSON data contents into your HTML</li>
+<li>Rethink your data structure to be more dynamic and versatile</li>
+<li>Build dynamic elements in JavaScript that have event listeners</li>
+<li>Update your HTML using JavaScript</li>
+<li>Save a JavaScript object as JSON </li>
+<li>Convert a string to a JavaScript object and then back again</li>
+<li>Get data via a HTTP XML request object</li>
+<li>Practice JSON and enjoy building out this task list from scratch.</li>
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
