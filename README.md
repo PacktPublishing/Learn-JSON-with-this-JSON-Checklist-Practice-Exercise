@@ -32,7 +32,7 @@ You'll learn how to:
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-A neophyte who is passionate about JSON and working with JavaScript objects. Anyone who wants to practice and learn JSON. JavaScript developers, web developers, and web designers.
+<li>A neophyte who is passionate about JSON and working with JavaScript objects. Anyone who wants to practice and learn JSON. JavaScript developers, web developers, and web designers.</li>
 <DIV>
 
 ### Technical Requirements
